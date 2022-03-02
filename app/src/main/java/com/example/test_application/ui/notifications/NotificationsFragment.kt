@@ -13,7 +13,7 @@ class  NotificationsFragment : Fragment() {
 
     private var _binding: FragmentNotificationsBinding? = null
 
-    // This property is o nly valid between onCreateView and
+    // This property is only valid between onCreateView and
     // onDestroyView.
     private val binding get() = _binding!!
 
